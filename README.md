@@ -10,7 +10,7 @@ Utilizing tableau, the analysis team takes a gander at portraying the various UF
 Made fully on P5JS, the goal for this data visualization was to display a state's average UFO duration. Showing a UFO scrolling across the screen and changing color based on the state being represented, this is a unique take on visualization of time based data. Made by Aylin Martinez.<br>
 
 ## UFO Sightings Over Time
-**LINK:** https://editor.p5js.org/yiling.bellali/full/FaHzp6uPw <br>
+**LINK:** vers1: https://editor.p5js.org/yiling.bellali/full/FaHzp6uPw vers2: https://editor.p5js.org/yiling.bellali/full/7IHCFQVeg<br>
 Built with p5JS. This data visualization shows the appearance of UFO based on the progression of time. The UFO objects on a black background symbolize sightings in a night sky. This code extracts and combines year, month, and date columns into an array of Date objects, sort the array in ascending order, build an automated date counter, and match the time a UFO is spotted with the time that it is shown on page. By showing the sheer amount of sightings of UFO's, we aim to persuade you on this topic: Aliens **do** exist. Made by Bella Li. <br>
 
 ## Space Tourism
