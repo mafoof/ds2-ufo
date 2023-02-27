@@ -7,7 +7,7 @@ Utilizing tableau, the analysis team takes a gander at portraying the various UF
 
 ## UFO Duration
 **LINK:** https://editor.p5js.org/AylinMartinez/full/pRJ3pxg_l <br>
-Made fully on P5JS, the goal for this data visualization was to display a state's average UFO duration. Showing a UFO scrolling across the screen and changing color based on the state being represented, this is a unique take on visualization of time based data.<br>
+Made fully on P5JS, the goal for this data visualization was to display a state's average UFO duration. Showing a UFO scrolling across the screen and changing color based on the state being represented, this is a unique take on visualization of time based data. Made by Aylin Martinez.<br>
 
 ## Space Tourism
 **LINK:** https://editor.p5js.org/sabrina.anna.martinez/full/3K_zWzlaf <br>
