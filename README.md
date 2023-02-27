@@ -5,7 +5,7 @@ Designing for Understanding: Taking a look at UFO sightings in the USA via data 
 **LINK:** https://public.tableau.com/app/profile/andy5659/viz/UFOVis/FinalDashboard?publish=yes <br>
 Utilizing tableau, the analysis team takes a gander at portraying the various UFO sightings from different perspectives. Using different graphs and colors via parsing the data, they visualized how many sightings are seen, what kinds of shapes are seen, and the sightings over the years. Made by Andy Liu, Naman Sahni, and Emma Klein.<br>
 
-##UFO Duration
+## UFO Duration
 **LINK:** https://editor.p5js.org/AylinMartinez/full/pRJ3pxg_l <br>
 Made fully on P5JS, the goal for this data visualization was to display a state's average UFO duration. Showing a UFO scrolling across the screen and changing color based on the state being represented, this is a unique take on visualization of time based data.<br>
 
