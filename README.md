@@ -11,7 +11,7 @@ Made fully on P5JS, the goal for this data visualization was to display a state'
 
 ## UFO Sightings Over Time
 **LINK:** https://editor.p5js.org/yiling.bellali/full/FaHzp6uPw <br>
-Using p5js, UFO images are displayed on a black canvas, symbolizing sightings in a night sky. Parsing through dates and the number of sightings, we get to see the sheer amount of sightings of UFO's, leading to us trying to persuade you on this topic: Aliens **do** exist. Made by Bella Li. <br>
+Built with p5JS. This data visualization shows the appearance of UFO based on the progression of time. The UFO objects on a black background symbolize sightings in a night sky. This code extracts and combines year, month, and date columns into an array of Date objects, sort the array in ascending order, build an automated date counter, and match the time a UFO is spotted with the time that it is shown on page. By showing the sheer amount of sightings of UFO's, we aim to persuade you on this topic: Aliens **do** exist. Made by Bella Li. <br>
 
 ## Space Tourism
 **LINK:** https://editor.p5js.org/sabrina.anna.martinez/full/3K_zWzlaf <br>
